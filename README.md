@@ -1,4 +1,2 @@
 Meu primeiro sistema no GIT
-
-alterar oque quiser
-alteração feita no MASTER
+alterar o que quiser
